@@ -11,9 +11,9 @@ const sampleListings = [
     location: "Malibu",
     country: "United States",
   },
-  {
+  { 
     title: "Modern Loft in Downtown",
-    description:
+    description:   
       "Stay in the heart of the city in this stylish loft apartment. Perfect for urban explorers!",
     image: {
       filename: "listingimage",
